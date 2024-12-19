@@ -1,5 +1,5 @@
 # Jailbreak-Detection-Methodologies
-For BIMB<3
+<3
 
 
 **1. Strengthen Jailbreak Detection Techniques**
